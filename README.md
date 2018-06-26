@@ -18,4 +18,4 @@ var timer = window.setInterval(function(){
 ```
 
 
-[参考csdk这位的代码，但是并不起效果](https://blog.csdn.net/baidu_16051437/article/details/60348763)
+[参考了csdk这位的仁兄的代码，但是并不起效果](https://blog.csdn.net/baidu_16051437/article/details/60348763)
